@@ -1,1 +1,1 @@
-# react-practiceProjects
+# react-practice projects
